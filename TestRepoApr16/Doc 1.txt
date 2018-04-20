@@ -1,0 +1,7 @@
+# New comment
+
+def sad():
+	print("sad")
+	
+	if sad == True
+		print("Act as if a cheerful story has been told")
